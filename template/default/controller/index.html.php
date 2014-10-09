@@ -12,5 +12,5 @@ defined('PHPFOX') or exit('NO DICE!');
 
 ?>
 <div class="welcome">{$return.aParam2}</div>
-<?php echo "Puja Kumari";?>
+<?php echo "Puja Kumari new changes on github";?>
 {module name='thought.display'}
